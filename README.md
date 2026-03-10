@@ -14,17 +14,19 @@ Proses asynchronous menggunakan Coroutines
 
 Screenshot:
 1. Mengedit build.gradle.kts (Module: app) untuk menambahkan dependency Compose, ViewModel, dan Coroutines
+![Tampilan Aplikasi](gambar1.png)
 
-2. Melakukan Gradle Sync agar semua library terpasang
+3. Melakukan Gradle Sync agar semua library terpasang
+![Tampilan Aplikasi](gambar2.png)
 
-3. Membuat class News.kt sebagai model data berita
+4. Membuat class News.kt sebagai model data berita
+![Tampilan Aplikasi](gambar3.png)
+5. Membuat NewsRepository.kt untuk menghasilkan berita otomatis menggunakan Flow
 
-4. Membuat NewsRepository.kt untuk menghasilkan berita otomatis menggunakan Flow
+6. Membuat NewsViewModel.kt untuk mengelola data dan status aplikasi
 
-5. Membuat NewsViewModel.kt untuk mengelola data dan status aplikasi
+7. Menambahkan logic Flow, StateFlow, dan Coroutine pada ViewModel
 
-6. Menambahkan logic Flow, StateFlow, dan Coroutine pada ViewModel
+8. Mendesain tampilan aplikasi di MainActivity.kt menggunakan Jetpack Compose
 
-7. Mendesain tampilan aplikasi di MainActivity.kt menggunakan Jetpack Compose
-
-8. Menjalankan aplikasi di emulator untuk memastikan fitur berjalan baik
+9. Menjalankan aplikasi di emulator untuk memastikan fitur berjalan baik
