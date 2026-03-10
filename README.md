@@ -32,6 +32,7 @@ Screenshot:
 
 9. Mendesain tampilan aplikasi di MainActivity.kt menggunakan Jetpack Compose
 ![Tampilan Aplikasi](gambar6.png)
+![Tampilan Aplikasi](gambar7.png)
 
 11. Menjalankan aplikasi di emulator untuk memastikan fitur berjalan baik
-![Tampilan Aplikasi](gambar7.png)
+
