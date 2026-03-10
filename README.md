@@ -30,9 +30,10 @@ Screenshot:
 5. Menambahkan logic Flow, StateFlow, dan Coroutine pada ViewModel
 ![Tampilan Aplikasi](gambar5.png)
 
-9. Mendesain tampilan aplikasi di MainActivity.kt menggunakan Jetpack Compose
+6. Mendesain tampilan aplikasi di MainActivity.kt menggunakan Jetpack Compose
 ![Tampilan Aplikasi](gambar6.png)
 ![Tampilan Aplikasi](gambar7.png)
 
-11. Menjalankan aplikasi di emulator untuk memastikan fitur berjalan baik
+7. Menjalankan aplikasi di emulator untuk memastikan fitur berjalan baik
+   
 ![Screenshot hasil](Screenshot%202026-03-11%20051718.png)
