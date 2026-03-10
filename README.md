@@ -35,4 +35,4 @@ Screenshot:
 ![Tampilan Aplikasi](gambar7.png)
 
 11. Menjalankan aplikasi di emulator untuk memastikan fitur berjalan baik
-
+![Screenshot hasil](Screenshot%202026-03-11%20051718.png)
